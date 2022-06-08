@@ -15,4 +15,4 @@ A simple program that adds the digits in a 2 digit number. e.g. if the input was
 3 + 9 = 12
 12
 ```
-![simple print](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/DayTwo/2.1.DataTypes/2.1.DataTypes.gif?raw=true)
+![DataTypes](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/DayTwo/2.1.DataTypes/2.1.DataTypes.gif?raw=true)
