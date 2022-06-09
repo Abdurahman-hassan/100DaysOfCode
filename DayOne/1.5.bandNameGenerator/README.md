@@ -1,7 +1,7 @@
 
 # Variables
 
-A very simple program using the String Manipulation by takes an inputs from user to print a brand name 
+A very simple program using the String Manipulation by takes an inputs from user to print a brand name
 
 ## Example Input
 
@@ -15,7 +15,6 @@ Koky
 ```
 
 ## Example OutPut
-
 ```
 Your band name could be Cairo Koky
 ```
