@@ -21,4 +21,4 @@ Where x, y and z are replaced with the actual calculated numbers.
 ```
 You have 12410 days, 1768 weeks, and 408 months left.
 ```
-![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/DayTwo/2.3.Life_In_Weeks/2.3.life_in_weeks.gif?raw=true)
+![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day2/2.3.Life_In_Weeks/2.3.life_in_weeks.gif?raw=true)
