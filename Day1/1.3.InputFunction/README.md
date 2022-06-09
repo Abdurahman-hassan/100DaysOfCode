@@ -14,4 +14,4 @@ Angela
 ```
 6
 ```
-![Input Function](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/DayOne/1.3.InputFunction/1.3.inputs.gif?raw=true)
+![Input Function](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day1/1.3.InputFunction/1.3.inputs.gif?raw=true)
