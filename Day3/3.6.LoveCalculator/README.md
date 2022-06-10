@@ -82,7 +82,6 @@ name2 = "Jennifer Aniston"
 Your score is 73.
 ```
 The testing code will check for print output that is formatted like one of the lines below:
-
 ```
 "Your score is 47, you are alright together."
 "Your score is 125, you go together like coke and mentos."
