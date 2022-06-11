@@ -35,4 +35,4 @@ Important You should not use the sum() or len() functions in your answer.
 ```
 171
 ```
-![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day5/5.1.AverageHeight/5.1 average height.gif?raw=true)
+![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day5/5.1.AverageHeight/5.1averageheight.gif?raw=true)
