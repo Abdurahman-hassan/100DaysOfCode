@@ -123,6 +123,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-DayOne/.DS_Store
+Day4/.DS_Store
 
-.DS_Store
+Day4/4.2.Banker_Roulette/.DS_Store
+
