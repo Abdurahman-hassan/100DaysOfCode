@@ -1,5 +1,5 @@
 
-# Variable
+# Variables
 
 A very simple program using the String Manipulation by takes an inputs from user to print a brand name
 
