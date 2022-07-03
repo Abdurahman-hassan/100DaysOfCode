@@ -1,7 +1,7 @@
 
 # Treasure Map
 
-![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayFour/Day4/4.3.Treasure_Map/map.png?raw=true)
+![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day04/Day04/4.3.Treasure_Map/map.png?raw=true)
 
 A simple program that will mark a spot with an X.
 
@@ -22,7 +22,7 @@ In the starting code, we have used new lines (\n) to format the three rows into 
 This is to try and simulate the coordinates on a real map.
 
 
-![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayFour/Day4/4.3.Treasure_Map/Co-ordinates_oggjzg.png?raw=true)
+![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day04/Day04/4.3.Treasure_Map/Co-ordinates_oggjzg.png?raw=true)
 
 
 
@@ -39,7 +39,7 @@ This is to try and simulate the coordinates on a real map.
 ['⬜️', '⬜️', '⬜️']
 ['⬜️', 'X', '⬜️']
 ```
-![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayFour/Day4/4.3.Treasure_Map/4.3treasure_map.gif?raw=true)
+![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day04/Day04/4.3.Treasure_Map/4.3treasure_map.gif?raw=true)
 
 ## Hint
 
