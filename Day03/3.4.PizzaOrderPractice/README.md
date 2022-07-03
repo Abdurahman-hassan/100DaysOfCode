@@ -31,4 +31,4 @@ extra_cheese = "N"
 Your final bill is: $28.
 ```
 
-![PizzaOrderPractice](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.4.PizzaOrderPractice/3.4_pizza_order.gif?raw=true)
+![PizzaOrderPractice](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.4.PizzaOrderPractice/3.4_pizza_order.gif?raw=true)

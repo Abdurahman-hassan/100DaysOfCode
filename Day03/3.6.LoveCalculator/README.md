@@ -89,4 +89,4 @@ The testing code will check for print output that is formatted like one of the l
 ```
 
 
-![count words](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.6.LoveCalculator/3.5.love_calc.gif?raw=true)
+![count words](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.6.LoveCalculator/3.5.love_calc.gif?raw=true)
