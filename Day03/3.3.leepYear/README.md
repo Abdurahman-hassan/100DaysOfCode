@@ -56,4 +56,4 @@ Leap year.
 Not leap year.
 ```
 
-![Leep years](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.3.leepYear/3.3.leap_year.gif?raw=true)
+![Leep years](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.3.leepYear/3.3.leap_year.gif?raw=true)
