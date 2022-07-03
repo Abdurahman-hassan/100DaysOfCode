@@ -15,6 +15,7 @@ Koky
 ```
 
 ## Example OutPut
+
 ```
 Your band name could be Cairo Koky
 ```
