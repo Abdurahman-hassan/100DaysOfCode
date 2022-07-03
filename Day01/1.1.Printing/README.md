@@ -9,4 +9,4 @@ The function is declared like this:
 print('what to print')
 
 ```
-![simple print](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day1/1.1.Printing/1.1.print.gif?raw=true)
+![simple print](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day01/Day01/1.1.Printing/1.1.print.gif?raw=true)
