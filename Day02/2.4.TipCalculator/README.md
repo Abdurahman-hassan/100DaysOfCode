@@ -1,7 +1,7 @@
 
 # Tips Calculator
 
-Tips Calculator it's a simple program that assist to calculate the tips money
+A simple program that assist to calculate the tips money
 
 If the bill was $150.00, split between 5 people, with 12% tip.
 

@@ -60,4 +60,4 @@ This is an odd number.
 This is an even number.
 ```
 
-![Odd even](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.1.OddorEven/3.1.odd_or_even.gif?raw=true)
+![Odd even](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.1.OddorEven/3.1.odd_or_even.gif?raw=true)

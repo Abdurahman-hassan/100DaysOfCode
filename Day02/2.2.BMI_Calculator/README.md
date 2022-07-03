@@ -7,7 +7,7 @@ The BMI is a measure of some's weight taking into account their height. e.g. If 
 
 The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
 
-![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day02/Day02/2.2.BMI_Calculator/2.2.bmi.png?raw=true)
+![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day2/2.2.BMI_Calculator/2.2.bmi.png?raw=true)
 
 ## Example Input
 
@@ -22,4 +22,4 @@ height = 1.75
 80 ÷ (1.75 x 1.75) = 26.122448979591837
 26
 ```
-![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day02/Day02/2.2.BMI_Calculator/2.2.bmiCalc.gif?raw=true)
+![BMI_Calculator](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day2/2.2.BMI_Calculator/2.2.bmiCalc.gif?raw=true)
