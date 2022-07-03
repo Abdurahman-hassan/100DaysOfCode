@@ -24,4 +24,4 @@ The highest score in the class is: x
 ```
 The highest score in the class is: 91
 ```
-![AverageHeight](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/5-Day5/day5/5.2.HighScore/5.2highestscore.gif?raw=true)
+![AverageHeight](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day05/Day05/5.2.HighScore/5.2highestscore.gif?raw=true)

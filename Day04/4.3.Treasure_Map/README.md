@@ -22,7 +22,7 @@ In the starting code, we have used new lines (\n) to format the three rows into 
 This is to try and simulate the coordinates on a real map.
 
 
-![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayFour/Day4/4.3.Treasure_Map/Co-ordinates_oggjzg.png?raw=true)
+![Treasure_Map](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day04/Day04/4.3.Treasure_Map/Co-ordinates_oggjzg.png?raw=true)
 
 
 

@@ -11,11 +11,11 @@ It should tell them the interpretation of their BMI based on the BMI value.
 - Over 30 but below 35 they are obese
 - Above 35 they are clinically obese.
 
-![if else](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.2.BMI_2.0/3.2_BMI_calc.jpeg?raw=true)
+![if else](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.2.BMI_2.0/3.2_BMI_calc.jpeg?raw=true)
 
 The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
 
-![if else](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.2.BMI_2.0/3.2.bmi_.png?raw=true)
+![if else](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.2.BMI_2.0/3.2.bmi_.png?raw=true)
 
 
 ## Example Input
@@ -33,4 +33,4 @@ Your BMI is 28, you are slightly overweight.
 ```
 
 
-![Odd even](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/DayThree/Day3/3.2.BMI_2.0/3.1.odd_or_even.gif?raw=true)
+![Odd even](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day03/Day03/3.2.BMI_2.0/3.1.odd_or_even.gif?raw=true)
