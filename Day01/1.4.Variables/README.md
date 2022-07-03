@@ -18,4 +18,4 @@ a: 5
 b: 3
 
 ```
-![simple print](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day1/1.4.Variables/1.4.variables.gif?raw=true)
+![simple print](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day01/Day01/1.4.Variables/1.4.variables.gif?raw=true)
