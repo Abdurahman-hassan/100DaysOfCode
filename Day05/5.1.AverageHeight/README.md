@@ -38,4 +38,4 @@ Important You should not use the sum() or len() functions in your answer.
 ```
 171
 ```
-![AverageHeight](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/5-Day5/day5/5.1.AverageHeight/5.1averageheight.gif?raw=true)
+![AverageHeight](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day05/Day05/5.1.AverageHeight/5.1averageheight.gif?raw=true)
