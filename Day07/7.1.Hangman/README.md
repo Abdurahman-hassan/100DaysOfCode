@@ -2,7 +2,7 @@
 
 it's a funny game
 
-![hang man](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/Day07/Day07/Hangman/Amended+Hangman+Flowchart.png?raw=true)
+![hang man](https://github.com/Abdurahman-hassan/100DaysOfCode/blob/main/Day07/7.1.Hangman/Amended%2BHangman%2BFlowchart.png?raw=true)
 
 
 ## input/output sample
