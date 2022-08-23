@@ -17,24 +17,38 @@ The modulo is written as a percentage sign (%) in Python. It gives you the remai
 
 e.g.
 
-```6 ÷ 2 = 3
+```
+6 ÷ 2 = 3
+
 ```
 
 with no remainder.
 
-therefore: ```6 % 2 = 0```
+therefore: 
+```
+6 % 2 = 0
+```
 
-```5 ÷ 2 = 2 x 2 + 1
+```
+5 ÷ 2 = 2 x 2 + 1
 ```
 , remainder is 1.
 
-therefore: ```5 % 2 = 1```
+therefore: 
+```
+5 % 2 = 1
+```
 
-```14 ÷ 4 = 3 x 4 + 2
+```
+14 ÷ 4 = 3 x 4 + 2
+
 ```
 , remainder is 2.
 
-therefore: ```14 % 4 = 2```
+therefore:
+```
+14 % 4 = 2
+```
 
 ## Example Input
 
